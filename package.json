@@ -1,6 +1,6 @@
 {
   "name": "react-advanced-rating",
-  "version": "1.1.0",
+  "version": "2.3.0",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -21,7 +21,6 @@
     "@rollup/plugin-babel": "^6.0.4",
     "@rollup/plugin-typescript": "^11.1.6",
     "@types/react": "^18.3.3",
-    "framer-motion": "^12.5.0",
     "postcss": "^8.4.38",
     "postcss-preset-env": "^9.5.14",
     "react": "^18.3.1",
@@ -33,6 +32,7 @@
     "typescript": "^5.8.2"
   },
   "dependencies": {
+    "framer-motion": "^12.5.0",
     "@tailwindcss/forms": "^0.5.7",
     "autoprefixer": "^10.4.19",
     "install": "^0.13.0",
@@ -42,4 +42,5 @@
     "rollup-plugin-css-only": "^4.5.2",
     "tailwindcss": "^3.4.4"
   }
+
 }
